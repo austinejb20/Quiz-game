@@ -1,5 +1,5 @@
 # Quiz Game
--A fun and interactive quiz game designed to test your knowledge across different topics.
+A fun and interactive quiz game designed to test your knowledge across different topics.
 ## Features
 - Multiple-choice questions
 -  Score tracking system
